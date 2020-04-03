@@ -1,0 +1,14 @@
+.root {
+  display: flex;
+}
+
+.coin-block {
+  margin: 4px 6px;
+  height: 40px;
+  width: 80px;
+  border: 1px dashed #cecece;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column
+}
